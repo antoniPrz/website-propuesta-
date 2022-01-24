@@ -678,6 +678,11 @@ footer .social a:hover {
     font-size: 2.25rem;
   }
 }
+
+
+.sub-ti{
+  color: var(--base-color-second);
+}
 /* large devices: 1023 > */
 /* large devices: 992 > */
 @media (min-width: 992px) {
