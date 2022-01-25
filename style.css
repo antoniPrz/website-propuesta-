@@ -89,6 +89,8 @@ body {
   border-radius: 0.25rem;
   font: 500 1rem var(--body-font);
   transition: background 0.3s;
+  justify-content: center;
+ 
 }
 
 .button:hover {
