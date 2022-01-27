@@ -559,6 +559,10 @@ footer .social a:hover {
   transform: translateY(0);
 }
 
+#contact .sub-ti{
+  text-align: center;
+}
+
 /*========= MEDIA QUERIES =========*/
 /* extra large devices: 1200 > */
 @media (min-width: 1200px) {
